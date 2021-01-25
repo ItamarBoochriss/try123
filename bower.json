@@ -1,0 +1,18 @@
+{
+  "name": "itamar-bower-package",
+  "description": "itamar's bower package example",
+  "keywords": [
+    "css",
+    "js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "/*",
+    "!/js",
+    "!/css"
+  ],
+  "dependencies": {
+    "jquery": "1.9.1 - 3",
+    "bootstrap": "3.3.7"
+  }
+}
